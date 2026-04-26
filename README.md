@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Rishi Raj Chandra
 
-<!--
-**RishiRaj5495/RishiRaj5495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (MERN) | Backend-Focused  
+🎯 GSoC Aspirant  
+💻 Passionate about building scalable web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+**Languages:** Java, JavaScript  
+**Frontend:** React, HTML, CSS, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, Socket.io, Firebase  
+
+---
+
+## 🔥 Featured Projects
+
+### 🔧 RepairNow – Mobile Repair Platform
+- Full-stack MERN application  
+- Real-time tracking & chat using Socket.io  
+- 🔗 Live: https://repairnow.onrender.com  
+
+---
+
+### 🏠 Rental Platform – Airbnb Clone
+- Role-based authentication  
+- REST APIs with secure backend  
+- 🔗 Live: https://majorproject9307.onrender.com  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishiRaj5495&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RishiRaj5495)
+
+---
+
+## 📈 Current Focus
+- DSA + System Design  
+- Backend Development  
+- Internship Preparation  
+
+---
+
+## 📫 Connect
+- LinkedIn  
+- Portfolio  
+
+---
+💡 Consistency beats intensity.
