@@ -1,8 +1,8 @@
 # Hi 👋, I'm Rishi Raj Chandra
 
-🚀 Full Stack Developer (MERN) | Backend-Focused  
-🎯 GSoC Aspirant  
-💻 Passionate about building scalable web applications  
+🚀 Full Stack Developer (MERN)  
+⚡ Scalable Web Applications • APIs • Real-time Systems  
+🧠 DSA & Problem Solving
 
 ---
 
