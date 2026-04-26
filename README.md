@@ -6,12 +6,21 @@
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
+
 **Languages:** Java, JavaScript  
+
 **Frontend:** React, HTML, CSS, Bootstrap  
+
 **Backend:** Node.js, Express.js  
+
 **Database:** MongoDB  
-**Tools:** Git, GitHub, Socket.io, Firebase  
+
+**Tools & Technologies:**  
+Git, GitHub, Socket.io, Firebase, REST APIs, Google Maps APIs  
+
+**Concepts:**  
+MVC Architecture, Authentication Systems   
 
 ---
 
