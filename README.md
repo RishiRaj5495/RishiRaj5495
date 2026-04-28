@@ -32,8 +32,12 @@
 ---
 
 ### 🏠 Rental Platform – Airbnb Clone
-- Role-based authentication  
-- REST APIs with secure backend  
+- Built a full-stack rental listing platform using Node.js, Express.js, and MongoDB with role-based access control  
+- Implemented secure authentication, authorization, and server-side validation workflows  
+- Designed property listing creation, pricing, and ratings systems with scalable booking architecture  
+- Integrated Mapbox for geo-spatial search, interactive maps, and location-based exploration  
+- Designed RESTful APIs and normalized MongoDB schemas for scalable data management  
+- Deployed production-ready application with responsive UI and secure backend  
 - 🔗 Live: https://majorproject9307.onrender.com  
 
 ---
