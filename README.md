@@ -46,7 +46,6 @@
 ---
 
 ## 📫 Connect
-## 📫 Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/rishi-raj-chandra-260859296) • 
 🌐 [Portfolio](https://app.makemyaisite.com/rishi_raj_chandra)
 
