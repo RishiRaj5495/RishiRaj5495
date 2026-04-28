@@ -40,11 +40,8 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishiRaj5495&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRaj5495&layout=compact&theme=tokyonight)
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishiRaj5495&show_icons=true&theme=tokyonight&hide=issues,contribs)
 ---
 
 ## 📫 Connect
