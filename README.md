@@ -19,8 +19,14 @@
 ## 🔥 Featured Projects
 
 ### 🔧 RepairNow – Mobile Repair Platform
-- Full-stack MERN application  
-- Real-time tracking & chat using Socket.io  
+
+- Built a full-stack repair booking platform using Node.js, Express.js, and MongoDB  
+- Designed secure REST APIs for authentication, booking workflows, and issue reporting with video uploads  
+- Integrated Google Directions + Distance Matrix APIs for route optimization, technician distance, and ETA  
+- Implemented real-time location tracking and live messaging using Socket.io  
+- Designed optimized MongoDB schemas and indexing for users, jobs, and service requests  
+- Integrated Firebase Admin for push notifications and live updates  
+- Deployed production-ready system on Render with environment configuration and logging  
 - 🔗 Live: https://repairnow.onrender.com  
 
 ---
