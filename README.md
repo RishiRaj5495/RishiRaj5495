@@ -56,6 +56,7 @@ JavaScript, Node.js, Express.js, MongoDB, Bootstrap, HTML, CSS, Mapbox
 ## 📫 Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/rishi-raj-chandra-260859296) • 
 🌐 [Portfolio](https://app.makemyaisite.com/rishi_raj_chandra)
+    [LeetCode](https://leetcode.com/u/Rishi_Raj_Chandra/)
 
 ---
 💡 Consistency beats intensity.
