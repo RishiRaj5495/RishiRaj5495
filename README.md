@@ -9,11 +9,12 @@
 ## ⚡ Tech Stack
 
 - **Languages:** Java, JavaScript  
-- **Frontend:** React, HTML, CSS, Bootstrap  
+- **Frontend:** HTML, CSS, React, Bootstrap, Material-UI  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, Socket.io, Firebase  
-- **Concepts:** REST APIs, MVC, Authentication    
+- **Database:** MongoDB, Mongoose  
+- **APIs / Tools:** Google Directions API, Google Distance Matrix API, REST APIs, Socket.io, Git, GitHub  
+- **Architecture / Features:** MVC, Authentication  
+- **Deployment / Services:** Render, Firebase Admin   
 
 ---
 
