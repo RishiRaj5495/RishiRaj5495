@@ -20,6 +20,7 @@
 
 ### 🔧  RepairNow – Full Stack Mobile Repair Service Platform
 
+JavaScript, Node.js, Express.js, MongoDB, Socket.io, Firebase Admin, HTML, CSS, Bootstrap
 - Built a full-stack repair booking platform using Node.js, Express.js, and MongoDB  
 - Designed secure REST APIs for authentication, booking workflows, and issue reporting with video uploads  
 - Integrated Google Directions + Distance Matrix APIs for route optimization, technician distance, and ETA  
@@ -32,6 +33,8 @@
 ---
 
 ### 🏠 StayFinder - Airbnb-Inspired Full Stack Rental Platform
+
+JavaScript, Node.js, Express.js, MongoDB, Bootstrap, HTML, CSS, Mapbox
 - Built a full-stack rental listing platform using Node.js, Express.js, and MongoDB with role-based access control  
 - Implemented secure authentication, authorization, and server-side validation workflows  
 - Designed property listing creation, pricing, and ratings systems with scalable booking architecture  
