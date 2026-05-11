@@ -18,7 +18,7 @@
 
 ## 🔥 Featured Projects
 
-### 🔧 RepairNow – Mobile Repair Platform
+### 🔧  RepairNow – Full Stack Mobile Repair Service Platform
 
 - Built a full-stack repair booking platform using Node.js, Express.js, and MongoDB  
 - Designed secure REST APIs for authentication, booking workflows, and issue reporting with video uploads  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🏠 Rental Platform – Airbnb Clone
+### 🏠 StayFinder - Airbnb-Inspired Full Stack Rental Platform
 - Built a full-stack rental listing platform using Node.js, Express.js, and MongoDB with role-based access control  
 - Implemented secure authentication, authorization, and server-side validation workflows  
 - Designed property listing creation, pricing, and ratings systems with scalable booking architecture  
