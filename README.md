@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer (MERN)  
 ⚡ Scalable Web Applications • APIs • Real-time Systems  
-🧠 DSA & Problem Solving
+🧠 DSA(JAVA) & Problem Solving
 
 ---
 ## ⚡ Tech Stack
