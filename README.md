@@ -30,7 +30,8 @@ JavaScript, Node.js, Express.js, MongoDB, Socket.io, Firebase Admin, HTML, CSS, 
 - Designed optimized MongoDB schemas and indexing for users, jobs, and service requests  
 - Integrated Firebase Admin for push notifications and live updates  
 - Deployed production-ready system on Render with environment configuration and logging  
-- 🔗 Live: https://repairnow.onrender.com  
+🌐 Live Demo: https://repairnow.onrender.com  
+📂 GitHub Repo: https://github.com/RishiRaj5495/Mobile_Repair
 
 ---
 
