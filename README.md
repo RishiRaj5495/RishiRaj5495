@@ -44,7 +44,8 @@ JavaScript, Node.js, Express.js, MongoDB, Bootstrap, HTML, CSS, Mapbox
 - Integrated Mapbox for geo-spatial search, interactive maps, and location-based exploration  
 - Designed RESTful APIs and normalized MongoDB schemas for scalable data management  
 - Deployed production-ready application with responsive UI and secure backend  
-- 🔗 Live: https://majorproject9307.onrender.com  
+🌐 [Live Demo](https://majorproject9307.onrender.com)  
+📂 [GitHub Repo](https://github.com/RishiRaj5495/MajorProject9307) 
 
 ---
 
