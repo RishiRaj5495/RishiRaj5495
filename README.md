@@ -32,6 +32,7 @@ JavaScript, Node.js, Express.js, MongoDB, Socket.io, Firebase Admin, HTML, CSS, 
 - Deployed production-ready system on Render with environment configuration and logging  
 🌐 [Live](https://repairnow.onrender.com)  
 📂 [GitHub Repo](https://github.com/RishiRaj5495/Mobile_Repair)
+📐 [System Design](https://drive.google.com/file/d/1lmEhbajY4qNajQzasSzZC9F-_9VObifc/view)
 
 ---
 
