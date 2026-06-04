@@ -30,7 +30,7 @@ JavaScript, Node.js, Express.js, MongoDB, Socket.io, Firebase Admin, HTML, CSS, 
 - Designed optimized MongoDB schemas and indexing for users, jobs, and service requests  
 - Integrated Firebase Admin for push notifications and live updates  
 - Deployed production-ready system on Render with environment configuration and logging  
-🌐 [Live Demo](https://repairnow.onrender.com)  
+🌐 [Live](https://repairnow.onrender.com)  
 📂 [GitHub Repo](https://github.com/RishiRaj5495/Mobile_Repair)
 
 ---
@@ -44,7 +44,7 @@ JavaScript, Node.js, Express.js, MongoDB, Bootstrap, HTML, CSS, Mapbox
 - Integrated Mapbox for geo-spatial search, interactive maps, and location-based exploration  
 - Designed RESTful APIs and normalized MongoDB schemas for scalable data management  
 - Deployed production-ready application with responsive UI and secure backend  
-🌐 [Live Demo](https://majorproject9307.onrender.com)  
+🌐 [Live](https://majorproject9307.onrender.com)  
 📂 [GitHub Repo](https://github.com/RishiRaj5495/MajorProject9307) 
 
 ---
