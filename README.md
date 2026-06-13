@@ -24,20 +24,6 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 | 🌍 **APIs & Maps** | Google Directions API • Google Distance Matrix API • Mapbox |
 | 🛠️ **Tools & Platforms** | Git • GitHub • Postman • Render |
 
-### 🔐 Authentication & Services
-- Session-Based Authentication
-- Firebase Admin SDK
-- Firebase Cloud Messaging (FCM)
-
-### 🌍 APIs & Tools
-- Google Directions API
-- Google Distance Matrix API
-- Mapbox
-- Git
-- GitHub
-- Postman
-- Render
-
 ---
 
 # 🔥 Featured Projects
