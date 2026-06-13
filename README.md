@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rishi Raj Chandra
 
-### 🚀 Full Stack Developer (MERN) 
+### 🚀 Full Stack Developer (MERN) | Building Real-Time Web Applications
 
 I build scalable full-stack applications with a focus on **real-time systems, REST APIs, geospatial features, and performance optimization**. Driven by curiosity and continuous learning, I enjoy solving challenging problems and improving my engineering skills through Data Structures & Algorithms.
 
@@ -35,6 +35,8 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 - Built a production-ready platform enabling customers to upload issue videos, book repairs, and track technicians live.
 - Designed and implemented **15+ REST APIs** for authentication, bookings, technician workflows, and issue reporting.
 - Engineered **real-time technician tracking** using Socket.io, reducing update latency by approximately **40% compared to repeated API polling**.
+- Implemented **location based filtering** to help users quickly identify relevant technicians near their
+current location.
 - Integrated **Google Directions API** and **Distance Matrix API** to calculate optimal routes and estimated arrival times.
 - Designed MongoDB schemas across **6+ collections**, leveraging indexing and validation for efficient querying.
 - Implemented secure authentication and middleware-based authorization workflows.
