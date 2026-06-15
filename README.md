@@ -18,7 +18,7 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 | 💻 **Languages** | Java • JavaScript |
 | 🎨 **Frontend** | React.js • HTML5 • CSS3 • Bootstrap • Material-UI |
 | ⚙️ **Backend** | Node.js • Express.js • REST APIs • Socket.io • MVC Architecture |
-| 🗄️ **Database** | MongoDB • Mongoose • Schema Design • Indexing • Data Modeling |
+| 🗄️ **Database** | MongoDB • Mongoose (Schema Design, Indexing, Data Modeling) |
 | 🔐 **Authentication & Security** | Session-Based Authentication • Express Middleware • Input Validation |
 | 🔔 **Notifications** | Firebase Cloud Messaging (FCM) • Firebase Admin SDK |
 | 🌍 **APIs & Maps** | Google Directions API • Google Distance Matrix API • Mapbox |
