@@ -6,7 +6,7 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 
 - 🔭 Currently building **RepairNow** – a real-time mobile repair service platform
 - 🌱 Exploring **AI integrations** to improve developer productivity and user experiences
-- 💻 Solved **130+ DSA problems** using Java
+- 💻 Solved **145+ DSA problems** using Java
 - ⚡ Interested in **Backend Engineering, System Design, and Full Stack Development**
 
 ---
@@ -18,11 +18,11 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 | 💻 **Languages** | Java • JavaScript |
 | 🎨 **Frontend** | React.js • HTML5 • CSS3 • Bootstrap • Material-UI |
 | ⚙️ **Backend** | Node.js • Express.js • REST APIs • Socket.io • MVC Architecture |
-| 🗄️ **Database** | MongoDB • Mongoose (Schema Design, Indexing, Data Modeling) |
+| 🗄️ **Database** | MongoDB • Mongoose, Redis (Caching, Data Modeling, Schema Design, Indexing) |
 | 🔐 **Authentication & Security** | Session-Based Authentication • Express Middleware • Input Validation |
 | 🔔 **Notifications** | Firebase Cloud Messaging (FCM) • Firebase Admin SDK |
 | 🌍 **APIs & Maps** | Google Directions API • Google Distance Matrix API • Mapbox |
-| 🛠️ **Tools & Platforms** | Git • GitHub • Postman • Render |
+| 🛠️ **Tools & Platforms** | Git • GitHub • Postman • Render • Docker|
 
 ---
 
@@ -30,13 +30,15 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 
 ## 🔧 RepairNow – Full Stack Mobile Repair Service Platform
 
-**Tech:** Node.js, Express.js, MongoDB, Socket.io, Firebase Admin, React, Bootstrap
+**Tech:** Node.js, Express.js, MongoDB, Socket.io, Redis, Firebase Admin, React, Bootstrap
 
 - Built a production-ready platform enabling customers to upload issue videos, book repairs, and track technicians live.
 - Designed and implemented **15+ REST APIs** for authentication, bookings, technician workflows, and issue reporting.
 - Engineered **real-time technician tracking** using Socket.io, reducing update latency by approximately **40% compared to repeated API polling**.
 - Implemented **location based filtering** to help users quickly identify relevant technicians near their
 current location.
+- Implemented **real-time technician location updates** using Socket.io, reducing unnecessary API polling
+by **approximately 80%**.
 - Integrated **Google Directions API** and **Distance Matrix API** to calculate optimal routes and estimated arrival times.
 - Designed MongoDB schemas across **6+ collections**, leveraging indexing and validation for efficient querying.
 - Implemented secure authentication and middleware-based authorization workflows.
