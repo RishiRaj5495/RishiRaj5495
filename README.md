@@ -34,7 +34,7 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 Built a full-stack mobile repair platform enabling customers to upload issue videos, discover nearby technicians, book
 doorstep repair services, make secure online payments, and track technicians in real time.
 
-• Designed and implemented 15+ RESTful APIs following REST principles for authentication, booking workflows, tech-
+• Designed and implemented **15+ RESTful APIs** following REST principles for authentication, booking workflows, tech-
 nician management, video reporting, and real-time location tracking.
 
 • Implemented real-time technician location updates and booking status synchronization using Socket.io, reducing unnec-
