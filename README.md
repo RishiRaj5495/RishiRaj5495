@@ -28,7 +28,7 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 
 # 🔥 Featured Projects
 
-## 🔧 RepairNow – Full Stack Mobile Repair Service Platform
+## 🔧 RepairNow – Full-Stack Mobile Repair Platform with Real-Time Technician Dispatch
 
 **Tech:** Node.js, Express.js, MongoDB, Socket.io, Redis, Firebase Admin, React, Bootstrap
 Built a full-stack mobile repair platform enabling customers to upload issue videos, discover nearby technicians, book
