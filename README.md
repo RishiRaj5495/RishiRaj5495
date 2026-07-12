@@ -34,23 +34,23 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 Built a full-stack mobile repair platform enabling customers to upload issue videos, discover nearby technicians, book
 doorstep repair services, make secure online payments, and track technicians in real time.
 
-• Designed and implemented **15+ RESTful APIs** following REST principles for authentication, booking workflows, tech-
+- Designed and implemented **15+ RESTful APIs** following REST principles for authentication, booking workflows, tech-
 nician management, video reporting, and real-time location tracking.
 
-• Implemented real-time technician location updates and booking status synchronization using Socket.io, reducing unnec-
+- Implemented real-time technician location updates and booking status synchronization using Socket.io, reducing unnec-
 essary API polling by **approximately 80%**.
 
-• Developed location-based technician discovery using MongoDB 2dsphere geospatial indexing with **$near**/**$geoNear**
+- Developed location-based technician discovery using MongoDB 2dsphere geospatial indexing with **$near**/**$geoNear**
 queries, enabling customers to find nearby technicians within a configurable search radius.
-• Integrated the **Razorpay Payment Gateway** with server-side **HMAC-SHA256 signature** verification, ensuring every
+- Integrated the **Razorpay Payment Gateway** with server-side **HMAC-SHA256 signature** verification, ensuring every
 payment is verified before booking confirmation.
-• Integrated **Redis caching** with cache invalidation, reducing MongoDB reads by  ̃**75%** and improving page load time from
+- Integrated **Redis caching** with cache invalidation, reducing MongoDB reads by  ̃**75%** and improving page load time from
  ̃**500 ms** to  ̃**150 ms** during local testing.
-• Integrated Google Maps **Directions API** and **Distance Matrix API** to calculate optimal routes and estimated arrival
+- Integrated Google Maps **Directions API** and **Distance Matrix API** to calculate optimal routes and estimated arrival
 times (ETA) for technician dispatch.
-• Designed an optimized MongoDB schema across **6+ collections** using indexing, references, validation, and aggregation
+- Designed an optimized MongoDB schema across **6+ collections** using indexing, references, validation, and aggregation
 for efficient data retrieval.
-• Implemented secure session-based authentication using **Passport.js** with middleware-based authorization and request
+- Implemented secure session-based authentication using **Passport.js** with middleware-based authorization and request
 validation, and built a review & rating system using **compound indexing** to prevent duplicate reviews for the same
 user-booking pair.
 
