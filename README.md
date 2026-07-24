@@ -1,12 +1,12 @@
 # Hi 👋, I'm Rishi Raj Chandra
 
-### 🚀 Full Stack Developer (MERN) | Building Real-Time System
+### 🚀 Backend Developer | Building Real-Time System
 
 I build scalable full-stack applications with a focus on **real-time systems, REST APIs, geospatial features, and performance optimization**. Driven by curiosity and continuous learning, I enjoy solving challenging problems and improving my engineering skills through Data Structures & Algorithms.
 
 - 🔭 Currently building **RepairNow** – a real-time mobile repair service platform
 - 🌱 Exploring **AI integrations** to improve developer productivity and user experiences
-- 💻 Solved **145+ DSA problems** using Java
+- 💻 Solved **155+ DSA problems** using Java
 - ⚡ Interested in **Backend Engineering, System Design, and Full Stack Development**
 
 ---
@@ -17,12 +17,12 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 |-----------|--------------|
 | 💻 **Languages** | Java • JavaScript |
 | 🎨 **Frontend** | React.js • HTML5 • CSS3 • Bootstrap • Material-UI |
-| ⚙️ **Backend** | Node.js • Express.js • REST APIs • Socket.io • MVC Architecture |
-| 🗄️ **Database** | MongoDB • Mongoose, Redis (Caching, Data Modeling, Schema Design, Indexing) |
+| ⚙️ **Backend** | Node.js • Express.js • REST APIs • Socket.io • Apache Kafka • Docker |
+| 🗄️ **Database & Cache** | MongoDB • Mongoose • Redis |
 | 🔐 **Authentication & Security** | Session-Based Authentication • Express Middleware • Input Validation |
-| 🔔 **Notifications** | Firebase Cloud Messaging (FCM) • Firebase Admin SDK |
-| 🌍 **APIs & Maps** | Google Directions API • Google Distance Matrix API • Mapbox |
-| 🛠️ **Tools & Platforms** | Git • GitHub • Postman • Render • Docker|
+| 🔔 **Cloud & Services** | Firebase Admin SDK(FCM) • Cloudinary • Confluent Cloud • Render |
+| 🌍 **Geospatial APIs** | Google Directions API • Google Distance Matrix API • Mapbox |
+| 🛠️ **Tools & Platforms** | Git • GitHub • Postman  |
 
 ---
 
@@ -45,7 +45,9 @@ queries, enabling customers to find nearby technicians within a configurable sea
 - Integrated the **Razorpay Payment Gateway** with server-side **HMAC-SHA256 signature** verification, ensuring every
 payment is verified before booking confirmation.
 - Integrated **Redis caching** with cache invalidation, reducing MongoDB reads by  ̃**75%** and improving page load time from
- ̃**500 ms** to  ̃**150 ms** during local testing.
+ ̃**489 ms** to  ̃**109 ms** during local testing.
+- Implemented **1Apache Kafka (KafkaJS)**1 using a producer–consumer architecture for asynchronous booking event processing,
+improving backend scalability.
 - Integrated Google Maps **Directions API** and **Distance Matrix API** to calculate optimal routes and estimated arrival
 times (ETA) for technician dispatch.
 - Designed an optimized MongoDB schema across **6+ collections** using indexing, references, validation, and aggregation
