@@ -79,7 +79,7 @@ user-booking pair.
 
 ## 📈 Achievements
 
-- 🏆 Solved **145+ Data Structures and Algorithms problems** on LeetCode using Java.
+- 🏆 Solved **155+ Data Structures and Algorithms problems** on LeetCode using Java.
 - 🚀 Built and deployed **2 production-ready full-stack applications** featuring real-time tracking and geospatial integrations.
 - 🤝 Participated in **Hackfest Hackathon**, collaborating on full-stack software development challenges.
 
