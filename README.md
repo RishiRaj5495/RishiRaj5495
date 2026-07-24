@@ -46,7 +46,7 @@ queries, enabling customers to find nearby technicians within a configurable sea
 payment is verified before booking confirmation.
 - Integrated **Redis caching** with cache invalidation, reducing MongoDB reads by  ̃**75%** and improving page load time from
  ̃**489 ms** to  ̃**109 ms** during local testing.
-- Implemented **1Apache Kafka (KafkaJS)**1 using a producer–consumer architecture for asynchronous booking event processing,
+- Implemented **Apache Kafka (KafkaJS)** using a producer–consumer architecture for asynchronous booking event processing,
 improving backend scalability.
 - Integrated Google Maps **Directions API** and **Distance Matrix API** to calculate optimal routes and estimated arrival
 times (ETA) for technician dispatch.
