@@ -19,7 +19,7 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 | 🎨 **Frontend** | React.js • HTML5 • CSS3 • Bootstrap • Material-UI |
 | ⚙️ **Backend** | Node.js • Express.js • REST APIs • Socket.io • Apache Kafka • Docker |
 | 🗄️ **Database & Cache** | MongoDB • Mongoose • Redis |
-| 🔐 **Authentication & Security** | Session-Based Authentication • Express Middleware • Input Validation |
+| 🔐 **Authentication & Security** | Passport.js • Session Authentication • Authorization • Input Validation |
 | 🔔 **Cloud & Services** | Firebase Admin SDK(FCM) • Cloudinary • Confluent Cloud • Render |
 | 🌍 **Geospatial APIs** | Google Directions API • Google Distance Matrix API • Mapbox |
 | 🛠️ **Tools & Platforms** | Git • GitHub • Postman  |
