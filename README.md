@@ -37,17 +37,20 @@ doorstep repair services, make secure online payments, and track technicians in 
 - Designed and implemented **15+ RESTful APIs** following REST principles for authentication, booking workflows, tech-
 nician management, video reporting, and real-time location tracking.
 
+- Integrated **Redis caching** with cache invalidation, reducing MongoDB reads by  ̃**75%** and improving page load time from
+ ̃**489 ms** to  ̃**109 ms** during local testing.
+
+- Implemented **Apache Kafka (KafkaJS)** using a producer–consumer architecture for asynchronous booking event processing,
+improving backend scalability.
+
 - Implemented real-time technician location updates and booking status synchronization using Socket.io, reducing unnec-
 essary API polling by **approximately 80%**.
+- Integrated the **Razorpay Payment Gateway** with server-side **HMAC-SHA256 signature** verification, ensuring every
+payment is verified before booking confirmation.
 
 - Developed location-based technician discovery using MongoDB 2dsphere geospatial indexing with **$near**/**$geoNear**
 queries, enabling customers to find nearby technicians within a configurable search radius.
-- Integrated the **Razorpay Payment Gateway** with server-side **HMAC-SHA256 signature** verification, ensuring every
-payment is verified before booking confirmation.
-- Integrated **Redis caching** with cache invalidation, reducing MongoDB reads by  ̃**75%** and improving page load time from
- ̃**489 ms** to  ̃**109 ms** during local testing.
-- Implemented **Apache Kafka (KafkaJS)** using a producer–consumer architecture for asynchronous booking event processing,
-improving backend scalability.
+
 - Integrated Google Maps **Directions API** and **Distance Matrix API** to calculate optimal routes and estimated arrival
 times (ETA) for technician dispatch.
 - Designed an optimized MongoDB schema across **6+ collections** using indexing, references, validation, and aggregation
