@@ -6,7 +6,7 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 
 - 🔭 Currently building **RepairNow** – a real-time mobile repair service platform
 - 🌱 Exploring **AI integrations** to improve developer productivity and user experiences
-- 💻 Solved **155+ DSA problems** using Java
+- 💻 Solved **166+ DSA problems** using Java
 - ⚡ Interested in **Backend Engineering, System Design, and Full Stack Development**
 
 ---
