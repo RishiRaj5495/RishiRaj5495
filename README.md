@@ -17,12 +17,13 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 |-----------|--------------|
 | 💻 **Languages** | Java • JavaScript |
 | 🎨 **Frontend** | React.js • HTML5 • CSS3 • Bootstrap • Material-UI |
-| ⚙️ **Backend** | Node.js • Express.js • REST APIs • Socket.io • Apache Kafka • Docker |
-| 🗄️ **Database & Cache** | MongoDB • Mongoose • Redis |
+| ⚙️ **Backend** | Node.js • Express.js • REST APIs • Socket.io • Apache Kafka |
+| 🗄️ **Database & Cache** | MongoDB • MySQL • Redis |
 | 🔐 **Authentication & Security** | Passport.js • Session Authentication • Authorization • Input Validation |
-| 🔔 **Cloud & Services** | Firebase Admin SDK(FCM) • Cloudinary • Confluent Cloud • Render |
+| 🔔 **Cloud & Services** | Firebase Admin SDK(FCM) • Cloudinary • Confluent Cloud • Render • Vercel |
 | 🌍 **Geospatial APIs** | Google Directions API • Google Distance Matrix API • Mapbox |
-| 🛠️ **Tools & Platforms** | Git • GitHub • Postman  |
+| 💳 **Payments** | Razorpay, Webhooks, HMAC-SHA256 Signature Verification
+| 🛠️ **Tools & Platforms** | Git • Docker • Postman  |
 
 ---
 
@@ -45,8 +46,9 @@ improving backend scalability.
 
 - Implemented real-time technician location updates and booking status synchronization using Socket.io, reducing unnec-
 essary API polling by **approximately 80%**.
-- Integrated the **Razorpay Payment Gateway** with server-side **HMAC-SHA256 signature** verification, ensuring every
-payment is verified before booking confirmation.
+
+- Integrated **Razorpay Webhooks** with **HMAC-SHA256 signature** verification for secure payment.captured event process-
+ing and reliable MongoDB payment status synchronization.
 
 - Developed location-based technician discovery using MongoDB 2dsphere geospatial indexing with **$near**/**$geoNear**
 queries, enabling customers to find nearby technicians within a configurable search radius.
