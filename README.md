@@ -62,7 +62,7 @@ user-booking pair.
 
 🌐 **Live:** https://repairnow.onrender.com  
 📂 **GitHub:** https://github.com/RishiRaj5495/Mobile_Repair  
-📐 **System Design:** https://drive.google.com/file/d/1lmEhbajY4qNajQzasSzZC9F-_9VObifc/view
+📐 **Architecture:** https://drive.google.com/file/d/1lmEhbajY4qNajQzasSzZC9F-_9VObifc/view
 
 ---
 
