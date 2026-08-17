@@ -5,7 +5,7 @@
 I build scalable full-stack applications with a focus on **real-time systems, REST APIs, geospatial features, and performance optimization**. Driven by curiosity and continuous learning, I enjoy solving challenging problems and improving my engineering skills through Data Structures & Algorithms.
 
 - 🔭 Currently building **RepairNow** – a real-time mobile repair service platform
-- 💻 Solved **166+ DSA problems** using Java
+- 💻 Solved **167+ DSA problems** using Java
 - ⚡ Interested in **Backend Engineering, System Design, and Full Stack Development**
 
 ---
