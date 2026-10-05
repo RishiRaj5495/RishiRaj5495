@@ -32,9 +32,9 @@ I build full-stack applications with a focus on backend engineering, **REST APIs
 ## 🔧 RepairNow – Full-Stack Mobile Repair Platform with Real-Time Technician Dispatch
 
 **Tech:** Node.js, Express.js, MongoDB, Redis, Apache Kafka, KafkaJS, Socket.IO, Razorpay, Python, FastAPI, YOLO, Faster-
-Whisper, FFmpeg, AWS EC
-Built a full-stack mobile repair platform enabling customers to upload issue videos, discover nearby technicians, book
-doorstep repair services, make secure online payments, and track technicians in real time.
+Whisper, FFmpeg, AWS EC2
+
+A full-stack mobile repair platform that allows customers to submit phone issue videos, find nearby technicians, book doorstep repairs, make online payments, and track technician progress in real time.
 
 - Designed and implemented **15+ RESTful APIs** following REST principles for authentication, booking workflows, tech-
 nician management, video reporting, and real-time location tracking.
