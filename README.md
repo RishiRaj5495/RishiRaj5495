@@ -1,11 +1,11 @@
 # Hi 👋, I'm Rishi Raj Chandra
 
-### 🚀 Backend Developer | Building Real-Time System
+### 🚀 Backend Developer | Real-Time Systems & REST APIs
 
-I build scalable full-stack applications with a focus on **real-time systems, REST APIs, geospatial features, and performance optimization**. Driven by curiosity and continuous learning, I enjoy solving challenging problems and improving my engineering skills through Data Structures & Algorithms.
-
+I build full-stack applications with a focus on backend engineering, **REST APIs, real-time systems, geospatial features, and performance optimization**. I enjoy solving engineering problems through hands-on projects and continuously improving my skills in Data Structures & Algorithms.
+- 🎓 **B.Tech Information Technology | 2027**
 - 🔭 Currently building **RepairNow** – a real-time mobile repair service platform
-- 💻 Solved **167+ DSA problems** using Java
+- 💻 Solved **180+ DSA problems** using Java
 - ⚡ Interested in **Backend Engineering, System Design, and Full Stack Development**
 
 ---
@@ -14,15 +14,16 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 
 | Category | Technologies |
 |-----------|--------------|
-| 💻 **Languages** | Java • JavaScript |
+| 💻 **Languages** | Java • JavaScript • Python |
 | 🎨 **Frontend** | React.js • HTML5 • CSS3 • Bootstrap • Material-UI |
-| ⚙️ **Backend** | Node.js • Express.js • REST APIs • Socket.io • Apache Kafka |
+| ⚙️ **Backend** | Node.js • Express.js • REST APIs • Socket.io • Apache Kafka • FastAPI |
+| 🗄️ **AI & Video Processing** | YOLO • Faster-Whisper • FFmpeg |
 | 🗄️ **Database & Cache** | MongoDB • MySQL • Redis |
 | 🔐 **Authentication & Security** | Passport.js • Session Authentication • Authorization • Input Validation |
-| 🔔 **Cloud & Services** | Firebase Admin SDK(FCM) • Cloudinary • Confluent Cloud • Render • Vercel |
+| 🔔 **Cloud & Services** | AWS EC2 • Firebase Admin SDK • Cloud Messaging (FCM) • Cloudinary • Render • Vercel |
 | 🌍 **Geospatial APIs** | Google Directions API • Google Distance Matrix API • Mapbox |
 | 💳 **Payments** | Razorpay, Webhooks, HMAC-SHA256 Signature Verification
-| 🛠️ **Tools & Platforms** | Git • Docker • Postman  |
+| 🛠️ **Developer Tools** | Git • Docker • Postman  |
 
 ---
 
@@ -30,7 +31,8 @@ I build scalable full-stack applications with a focus on **real-time systems, RE
 
 ## 🔧 RepairNow – Full-Stack Mobile Repair Platform with Real-Time Technician Dispatch
 
-**Tech:** Node.js, Express.js, MongoDB, Socket.io, Redis, Firebase Admin, React, Bootstrap
+**Tech:** Node.js, Express.js, MongoDB, Redis, Apache Kafka, KafkaJS, Socket.IO, Razorpay, Python, FastAPI, YOLO, Faster-
+Whisper, FFmpeg, AWS EC
 Built a full-stack mobile repair platform enabling customers to upload issue videos, discover nearby technicians, book
 doorstep repair services, make secure online payments, and track technicians in real time.
 
@@ -60,6 +62,13 @@ for efficient data retrieval.
 validation, and built a review & rating system using **compound indexing** to prevent duplicate reviews for the same
 user-booking pair.
 
+## 🤖 AI Video Validation
+   Built a separate **FastAPI AI** service for validating customer repair videos using:
+- **YOLO** for phone detection
+- **Faster-Whisper** for speech/transcript analysis
+- **FFmpeg** for video/audio processing
+- **AWS EC2** for deployment
+
 🌐 **Live:** https://repairnow.onrender.com  
 📂 **GitHub:** https://github.com/RishiRaj5495/Mobile_Repair  
 📐 **Architecture:** https://drive.google.com/file/d/1lmEhbajY4qNajQzasSzZC9F-_9VObifc/view
@@ -83,7 +92,7 @@ user-booking pair.
 
 ## 📈 Achievements
 
-- 🏆 Solved **166+ Data Structures and Algorithms problems** on LeetCode using Java.
+- 🏆 Solved **180+ Data Structures and Algorithms problems** on LeetCode using Java.
 - 🚀 Built and deployed **2 production-ready full-stack applications** featuring real-time tracking and geospatial integrations.
 - 🤝 Participated in **Hackfest Hackathon**, collaborating on full-stack software development challenges.
 
