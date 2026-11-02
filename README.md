@@ -5,7 +5,7 @@
 I build full-stack applications with a focus on backend engineering, **REST APIs, real-time systems, geospatial features, and performance optimization**. I enjoy solving engineering problems through hands-on projects and continuously improving my skills in Data Structures & Algorithms.
 - 🎓 **B.Tech Information Technology | 2027**
 - 🔭 Currently building **RepairNow** – a real-time mobile repair service platform
-- 💻 Solved **180+ DSA problems** using Java
+- 💻 Solved **195+ DSA problems** using Java
 - ⚡ Interested in **Backend Engineering, System Design, and Full Stack Development**
 
 ---
